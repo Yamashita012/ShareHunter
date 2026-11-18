@@ -1,0 +1,3 @@
+# One explicitly authorized SMB server per line
+192.0.2.10
+# fileserver.example.internal

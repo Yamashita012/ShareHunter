@@ -1,0 +1,16 @@
+# Add one keyword per line, or category:keyword
+# Examples:
+password
+passwd
+pwd
+passphrase
+client_secret
+api_key
+access_key
+secret_key
+bearer
+authorization
+connection_string
+private_key
+aws_secret_access_key
+azure_client_secret
